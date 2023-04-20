@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681300743 source:d:\projects\c\dots and boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1681300743 d:\projects\c\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+
